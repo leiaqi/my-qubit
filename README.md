@@ -1,2 +1,2 @@
-# my-qubit
+# 4WDR-qubit
 state evolution 
